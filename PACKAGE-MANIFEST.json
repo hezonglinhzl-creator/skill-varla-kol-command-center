@@ -1,0 +1,316 @@
+{
+  "files": 62,
+  "bytes": 720453,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "apps/varla-kol-command-center/.gitignore",
+      "bytes": 414,
+      "sha256": "1281823655bc06ce2f7b8830319de3f971ae67f408bc4bb0cd79a0a653da6d88"
+    },
+    {
+      "path": "apps/varla-kol-command-center/.playwright-cli/page-2026-08-14T06-36-56-987Z.yml",
+      "bytes": 6775,
+      "sha256": "ab30f62575197e60106f64e149a4c6b4a9f95e5243408d4ef4228a564d5118f5"
+    },
+    {
+      "path": "apps/varla-kol-command-center/.playwright-cli/page-2026-08-14T06-39-05-911Z.yml",
+      "bytes": 4874,
+      "sha256": "1ea06503b6aa35ad58cd84ac02ff248f0af799ac323bec0834027e3d8094e883"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/__init__.py",
+      "bytes": 53,
+      "sha256": "ffdfd29b4adcb88a3c202b4457b448e8548031f9711fd9dca1673c8130d62082"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/audit.py",
+      "bytes": 867,
+      "sha256": "148b7a84f927f577895df8a516ba7c03aff6b237da626152c4c74276430c50e9"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/build_info.py",
+      "bytes": 757,
+      "sha256": "b1e7dc4766dfb329efb7bfb5d9956191d7fe4cff8323df8278986a738ed4e29d"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/catalog.py",
+      "bytes": 17978,
+      "sha256": "633e6f0e9a098211b910748a410dcc67fd2af2eb91cff73e463bbffacac7b02f"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/classifier.py",
+      "bytes": 20399,
+      "sha256": "05f478ba3d85d3bf2ece6b443e96593b55d4d31eeb5fd52d5f87578fae9500fa"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/config.py",
+      "bytes": 1760,
+      "sha256": "04f4baf482a56c76e9a12c8f2f531431fde03807263eb941d5cf5848282a2978"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/context_alignment.py",
+      "bytes": 6597,
+      "sha256": "92db395364b3513fabb1bee77938129513e62dac81dfd414df3bfc133284bdb9"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/contract_gateway.py",
+      "bytes": 5959,
+      "sha256": "19a6ba0b58dbee0754659d57b447f561722fbf9ebbabce8a8670a7961b164c7d"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/db.py",
+      "bytes": 19898,
+      "sha256": "053f7aca7af7696e79929bdf41e215c3b66602a42c6757c5a6d62745e8b4bfd9"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/feishu_sync.py",
+      "bytes": 18212,
+      "sha256": "c3eef0ffe57e91f0f2a5ff4f758bad29c825c3c9f9db8bab553eafaff7d88f5c"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/gmail_gateway.py",
+      "bytes": 14915,
+      "sha256": "377345cc54e68db2e88bed8883f97f6fa790fd06a601c1d4c7a7c0e9bbabce07"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/grounding.py",
+      "bytes": 7374,
+      "sha256": "662b00a434b2a3d7e4a0aac82f8ec4e334beb6e64b755b6955cf4eda611a6b6b"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/knowledge.py",
+      "bytes": 23005,
+      "sha256": "f21037bcbc55dabed683d6bd3706debed90ffdbf2cc602f202ca88f4a373bbff"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/main.py",
+      "bytes": 47037,
+      "sha256": "fe55cabcfc6c85b932ecf2bf859a73994dff5b6443389716e4757e92df87f189"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/message_text.py",
+      "bytes": 3440,
+      "sha256": "50b457577b4348f69d9a0c03a73f787644a53f6a1c640e632c1b0801ed3a0593"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/preview_alignment.py",
+      "bytes": 2760,
+      "sha256": "2d2aea1d02b6cae35615c254042ca2f27239147c7a4b257f6984abfb0447f132"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/production_services.py",
+      "bytes": 95915,
+      "sha256": "d493c176936c7c21d8d5ac6c57002adb3e78cc87c950ed6c48eb02e9e82d7166"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/redaction.py",
+      "bytes": 2090,
+      "sha256": "64afcc0b2903c632ec8aa3d1c13c912263229019c5a75e7e9fc3273fa3b78c62"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/relevance.py",
+      "bytes": 3541,
+      "sha256": "3b68684a938b78d0820be0756340ae10168af9363a486ed6ef74ce5d30b7ffaa"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/reply_engine.py",
+      "bytes": 17503,
+      "sha256": "7afee2de99671a6d6ea7f8b271a1b2f4fa631b7de46002b20fc8c2c4562a329e"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/risk_policy.py",
+      "bytes": 19832,
+      "sha256": "3169e6a67761299879175fe813b474c379af255d48dce63c350928256ac23431"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/runtime.py",
+      "bytes": 764,
+      "sha256": "95368a590712ceff7f235792f208754d72882c8a602e3ff59bc3f31c309a9850"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/schemas.py",
+      "bytes": 1802,
+      "sha256": "ff55816b4ed6e9e544f769a61c71f7387266a2360c2689a15c067a29d9406686"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/service_links.py",
+      "bytes": 1908,
+      "sha256": "1cd7d8476c9af21eabcd8eaa6f3b9ac5ab1651224bf5feee2458553df2835f84"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/skill_health.py",
+      "bytes": 32127,
+      "sha256": "6aedd6b3f5396bb3a27857ffe7d10ba73d64527b183b77eb65d637f02587980b"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/state_machine.py",
+      "bytes": 1483,
+      "sha256": "48a24290766c2ba43133b19f1032f9f2660da5cf5b1355e4dda827f862a881c3"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/web/app.js",
+      "bytes": 54245,
+      "sha256": "e0ee0dbf111a61096a090ce2cd55428019f1267842af22cddf106928e7243180"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/web/index.html",
+      "bytes": 19096,
+      "sha256": "22155fe0deb0a95b4c1eabcea4d9bd1c8c1f46c90e58bdd2b0699a321d90c3d0"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/web/styles.css",
+      "bytes": 20014,
+      "sha256": "8f0c267a46428e27e0d3f4db4bd1f71922baf7fcb3840a3d09b6e802c55e9ae9"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/web/task_display.js",
+      "bytes": 1789,
+      "sha256": "86b7e9e0983c889f23d9e7ebbae2bccec86c0677213d4e90e7b669757b03d550"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/web/task_safety.js",
+      "bytes": 1721,
+      "sha256": "57b2e5a3e91909038bd3cb98b7bee182b92ac73b94af2be4ed4463ffef95f560"
+    },
+    {
+      "path": "apps/varla-kol-command-center/app/workflow.py",
+      "bytes": 49935,
+      "sha256": "ba4e4cf5c3e2b861a9cc38327bbd7fd3971cb8874c09cb84c77165301c481dd3"
+    },
+    {
+      "path": "apps/varla-kol-command-center/config.example.json",
+      "bytes": 609,
+      "sha256": "00e71ce966321487cacd6aa193d8158d1176ce549e8136280128c730bd0ddbe6"
+    },
+    {
+      "path": "apps/varla-kol-command-center/INSTALL_DESKTOP_LAUNCHER.bat",
+      "bytes": 317,
+      "sha256": "767e2d6cda2d03320cd6ca1016509777f95a838b4630755682d4d72fb45e61d0"
+    },
+    {
+      "path": "apps/varla-kol-command-center/pyproject.toml",
+      "bytes": 744,
+      "sha256": "bc2533789901256d1561b5de7f1d38b29b7fd3f61887302bc6bd968ad9e1a704"
+    },
+    {
+      "path": "apps/varla-kol-command-center/README_使用说明.md",
+      "bytes": 12566,
+      "sha256": "66a1a083503b99827efc23071c3429b22877d07260572eea6d3d9a4cc6f16aba"
+    },
+    {
+      "path": "apps/varla-kol-command-center/requirements.lock",
+      "bytes": 36926,
+      "sha256": "08ef25ad6a28311601734385b4c9620a74a6cb396d3ae7703f5a24598d66b055"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/build_four_stage_test_package.py",
+      "bytes": 27755,
+      "sha256": "ec7ef9c866b93d76d6913277e58fcb763e061216715d1ead5ae45fe974c4f0a0"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/build_knowledge.py",
+      "bytes": 27649,
+      "sha256": "fb643d71fd6c326ef708ffcfb74997fa67238dff74a25238df0373ccb35dc5ac"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/four_stage_test_content.py",
+      "bytes": 3359,
+      "sha256": "11e975393545fec5b78b9de5ac32a4340b9f83189df14c53d65b766414f00653"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/install_desktop_launcher.ps1",
+      "bytes": 2928,
+      "sha256": "92952090bfb4cba1cc85450a41c55dd7cff9a1441a0e160dbb83197cc7c9bbb0"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/install_gmail_skill_update.ps1",
+      "bytes": 12326,
+      "sha256": "e970287f1931c129c572133d6ba525d30170757fb6c5cd271006803f751364bd"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/install_master_skill.ps1",
+      "bytes": 8412,
+      "sha256": "78759494da50f5a196e48de772cfb6b3d836a18a24871ef49a7975aba15fadc0"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/run_four_stage_gmail_test.py",
+      "bytes": 24962,
+      "sha256": "44630bf8f3c50df0eb8584df7a69dfe3cc6ee56e6b2a1798ff54ed932c49b6b0"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/run_with_timeout.py",
+      "bytes": 1305,
+      "sha256": "c14f89ab09fd1c5afde5fbba3ac30bc2543a039ff86deb100a1add2eee97cb17"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/start_server.ps1",
+      "bytes": 9081,
+      "sha256": "e158365fc71a0d8357ae80b89539259b4432d32034afde311949254a0cfcf49b"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/verify_install.ps1",
+      "bytes": 3194,
+      "sha256": "3b50937274baa3aeca170af816135d7627214b7c22d94a26a3c0a38732c6b5f9"
+    },
+    {
+      "path": "apps/varla-kol-command-center/scripts/verify_runtime.py",
+      "bytes": 2616,
+      "sha256": "9e58460033e2eac9438756b0a49d55928d304222441592dce9a6762fc8c4b3e6"
+    },
+    {
+      "path": "apps/varla-kol-command-center/skill/agents/openai.yaml",
+      "bytes": 254,
+      "sha256": "6210e0e3a3a4c2b9361700cd5cf1a93e5964e5ed3fa1e4e46c989bbb3e5a7b3b"
+    },
+    {
+      "path": "apps/varla-kol-command-center/skill/SKILL.md",
+      "bytes": 5404,
+      "sha256": "63fa79bd0bfd6498c0328a68978f0f9c952670829745a155c1061014daec58b5"
+    },
+    {
+      "path": "apps/varla-kol-command-center/skills-lock.json",
+      "bytes": 4922,
+      "sha256": "0ef68f452a4874cd31c327df96a776d34462f2d9ece771f8f863052ab1265ee1"
+    },
+    {
+      "path": "apps/varla-kol-command-center/START_KOL_COMMAND_CENTER.bat",
+      "bytes": 264,
+      "sha256": "094b58a767da8ec0ae78f32b819269e9da86da3d9111fbf35e9907410bff6354"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 990,
+      "sha256": "4aba7313e17eefe50f98a504508a4ccb6ebcee7e768ae472264a419a1b1a6ebc"
+    },
+    {
+      "path": "skill/varla-kol-command-center/agents/openai.yaml",
+      "bytes": 254,
+      "sha256": "6210e0e3a3a4c2b9361700cd5cf1a93e5964e5ed3fa1e4e46c989bbb3e5a7b3b"
+    },
+    {
+      "path": "skill/varla-kol-command-center/SKILL.md",
+      "bytes": 5404,
+      "sha256": "63fa79bd0bfd6498c0328a68978f0f9c952670829745a155c1061014daec58b5"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
