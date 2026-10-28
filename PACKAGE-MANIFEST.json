@@ -1,11 +1,11 @@
 {
   "files": 67,
-  "bytes": 738024,
+  "bytes": 742068,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "apps/varla-kol-command-center/.gitignore",
@@ -49,8 +49,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/config.py",
-      "bytes": 1760,
-      "sha256": "04f4baf482a56c76e9a12c8f2f531431fde03807263eb941d5cf5848282a2978"
+      "bytes": 2217,
+      "sha256": "6f9fe405dc817f109569f197f5a7d8f4e03d72ab20e80e5922b3f2cf84285d74"
     },
     {
       "path": "apps/varla-kol-command-center/app/context_alignment.py",
@@ -89,8 +89,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/main.py",
-      "bytes": 47037,
-      "sha256": "fe55cabcfc6c85b932ecf2bf859a73994dff5b6443389716e4757e92df87f189"
+      "bytes": 46513,
+      "sha256": "964783de8c2bf977c08601d1749b733eb471827c5ca400c0b7d9341fde016cb6"
     },
     {
       "path": "apps/varla-kol-command-center/app/message_text.py",
@@ -104,8 +104,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/production_services.py",
-      "bytes": 95915,
-      "sha256": "d493c176936c7c21d8d5ac6c57002adb3e78cc87c950ed6c48eb02e9e82d7166"
+      "bytes": 94996,
+      "sha256": "7718abd2d4e5e5bc6c846e04c181b42297a6f8445175fa6087b053d94632b056"
     },
     {
       "path": "apps/varla-kol-command-center/app/redaction.py",
@@ -159,8 +159,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/web/index.html",
-      "bytes": 18836,
-      "sha256": "b72c833272ffc11b879bff8963417349a202170afa52d0e2c774a8571d4bd4f2"
+      "bytes": 18903,
+      "sha256": "87d9db5f9711496efa98993c4a4c95978c4a5939b9358e2859c2be03be7252fb"
     },
     {
       "path": "apps/varla-kol-command-center/app/web/styles.css",
@@ -184,8 +184,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/config.example.json",
-      "bytes": 609,
-      "sha256": "00e71ce966321487cacd6aa193d8158d1176ce549e8136280128c730bd0ddbe6"
+      "bytes": 794,
+      "sha256": "d88bd66cecd521990f9c057d47dd728b5637b99bc0c1b93784087c8c7df72a73"
     },
     {
       "path": "apps/varla-kol-command-center/INSTALL_DESKTOP_LAUNCHER.bat",
@@ -199,18 +199,18 @@
     },
     {
       "path": "apps/varla-kol-command-center/README.en.md",
-      "bytes": 2518,
-      "sha256": "d56f1d06a6453fcb4451737e5b7595c71a18f4f0899dfdd861890b16ea1d532d"
+      "bytes": 2708,
+      "sha256": "eaae3dc655c4bec38fedbd8f5ed5727be909dae78aa395f7c5de2b476757f060"
     },
     {
       "path": "apps/varla-kol-command-center/README.md",
-      "bytes": 2464,
-      "sha256": "690422c475312419082e7c6caee0b8492865e880e52652b30d86d4b6c7b9410e"
+      "bytes": 2758,
+      "sha256": "5af27d7b40e2768fc040b729294c1389bab1e8ab029361706e79eb7d9f52dd10"
     },
     {
       "path": "apps/varla-kol-command-center/README_使用说明.md",
-      "bytes": 12566,
-      "sha256": "66a1a083503b99827efc23071c3429b22877d07260572eea6d3d9a4cc6f16aba"
+      "bytes": 12666,
+      "sha256": "64e0ab66fdad61d4f3cedaf36a816106caab565de50d14f4b228fbeed2cd391a"
     },
     {
       "path": "apps/varla-kol-command-center/requirements.lock",
@@ -294,18 +294,18 @@
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 4468,
-      "sha256": "253735eec7a6db0e34c78d4e3ea22d8618c6455c19f8c872315562da0a955700"
+      "bytes": 4948,
+      "sha256": "63a1b18894302f0fe8b2be0df4993bf9892d844ad1f9df3addcdabc7f3c773df"
     },
     {
       "path": "README.md",
-      "bytes": 4296,
-      "sha256": "cdd304c2a021653ac90e1eaff52e751bc7a6e6b43176e41acddef0bb1099732f"
+      "bytes": 4826,
+      "sha256": "8c4a65c2f3345c005b7768f2e257a59e80db4ef9ee79aa43f7c5207429dae414"
     },
     {
       "path": "skill/varla-kol-command-center/agents/openai.yaml",
@@ -314,18 +314,18 @@
     },
     {
       "path": "skill/varla-kol-command-center/README.en.md",
-      "bytes": 3326,
-      "sha256": "eb345e9a1becabd90fbf59ed2a54ab618273075f2f9b55f98995068d27af2272"
+      "bytes": 3516,
+      "sha256": "43517c0216f4a32ddd90adabcd18147308999f9d227ce8bff821c6d3c1f40ea9"
     },
     {
       "path": "skill/varla-kol-command-center/README.md",
-      "bytes": 3257,
-      "sha256": "9d4d3d9bffc45f11524427748df1be1b4b132fdf75600cbdaf089a94c8a7d695"
+      "bytes": 3551,
+      "sha256": "29b81a9298eeb7ce04813caef85accf259df5df632925b702385c1b1da622af1"
     },
     {
       "path": "skill/varla-kol-command-center/SKILL.md",
-      "bytes": 5404,
-      "sha256": "63fa79bd0bfd6498c0328a68978f0f9c952670829745a155c1061014daec58b5"
+      "bytes": 6386,
+      "sha256": "e46feb475c01c14b0f82ecdd3a2d72d0cb08a982b56628693f15ec0c29312f7e"
     },
     {
       "path": "安装Skill.cmd",

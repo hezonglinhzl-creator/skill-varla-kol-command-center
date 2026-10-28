@@ -25,6 +25,8 @@ A local dashboard for KOL mail classification, knowledge retrieval, reply previe
 2. Right-click the downloaded ZIP and choose **Extract All**. Open the extracted folder containing this README.
 3. Keep the whole folder together. Start the program first using the next section, then install/use its skill.
 
+Installation also writes PACKAGE-LOCATION.json beside the installed SKILL.md, mapping the bundled programs to their actual extracted directories. Keep the full extracted folder; rerun the installer after moving it. Existing Skill content is preserved by default while paths are refreshed.
+
 ## 1. Set up the program first
 
 ### KOL Command Center App (`varla-kol-command-center`)
@@ -33,7 +35,7 @@ Windows, Python 3.11+ and separate Gmail/reply/contract/Feishu component setup.
 
 Open `apps/varla-kol-command-center` first. A local WebUI, four mail groups, knowledge retrieval, reply review, confirmation and pause.
 
-1. Read `README_使用说明.md` and configure your Gmail authorization and component locations.
+1. Configure optional VARLA_KOL_DATA_DIR, VARLA_KOL_REPLY_ROOT and VARLA_KOL_EXPECTED_ACCOUNT, then your Gmail authorization. The default data directory is %LOCALAPPDATA%/VarlaKOLCommandCenter.
 2. The original `START_KOL_COMMAND_CENTER.bat` relies on Codex's bundled Python; use the manual route below if unavailable.
 3. Run `python -m venv .venv`, then `.\.venv\Scripts\python.exe -m pip install -r requirements.lock` here.
 4. Run `.\.venv\Scripts\python.exe -m uvicorn app.main:app --host 127.0.0.1 --port 8791`.
@@ -43,7 +45,7 @@ Local URL: `http://127.0.0.1:8791/`
 
 [Full program / browser-extension guide](apps/varla-kol-command-center/README.en.md)
 
-Recognition includes narrowly scoped vendor-junk handling that can mutate Gmail; read the detailed rules. Review component paths in app/config.py and related files. Replace the your-workspace Feishu hostname placeholder in app/web/app.js with your tenant hostname before opening those resource links.
+Background junk cleanup is disabled by default; only VARLA_ENABLE_JUNK_CLEANUP=true enables its timer. Recognition/manual cleanup can still mutate mail. config.example.json is reference-only; configure launch environment variables. Gmail files are gmail-credentials.json and gmail-token.json at the data root. Without business knowledge, the setup UI loads but replies require manual handling.
 
 ## 2. Install the Skill
 
